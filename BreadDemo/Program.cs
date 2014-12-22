@@ -11,11 +11,12 @@ namespace BreadDemo
         static void Main(string[] args)
         {
             Console.WriteLine("This is the first release");
-<<<<<<< HEAD
+
             Console.WriteLine("Modfied second time");
-=======
+
             Console.WriteLine("This is  a bug fix to version one which makes it 1.1");
->>>>>>> master
+
+            Console.WriteLine("More Code");
         }
     }
 }
