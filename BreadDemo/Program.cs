@@ -11,6 +11,7 @@ namespace BreadDemo
         static void Main(string[] args)
         {
             Console.WriteLine("This is the first release");
+            Console.WriteLine("This is  a bug fix to version one which makes it 1.1");
         }
     }
 }
